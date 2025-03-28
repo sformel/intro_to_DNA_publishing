@@ -15,16 +15,16 @@
 carpentry: 'incubator'
 
 # Alt-text description of the lesson.
-carpentry_description: 'Lesson Description'
+carpentry_description: 'An introduction to publishing DNA-derived data on GBIF, using the Darwin Core standard.'
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'Intro to Publishing DNA data on GBIF'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME: ( ~ means empty, replace with date formatted as above)
+created: '2025-03-28'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'software, data, lesson, The Carpentries, DNA, GBIF'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -34,7 +34,7 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-rmd' # FIXME
+source: 'https://github.com/sformel/intro_to_DNA_publishing' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
